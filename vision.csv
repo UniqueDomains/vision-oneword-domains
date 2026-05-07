@@ -715,6 +715,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ede7a48-c630-4c27-9edb-92e55c213142,audio.vision,resell,,,76,35,5,Porkbun LLC,03/10/2015 10:26,03/10/2026 10:26
 3f09f19e-073c-4f59-90cd-2367b3d8e9ee,carryover.vision,available,9.99,,70,2,10,name.com,,
 3f1b9469-103a-44d5-b13a-6f48518ce63e,coins.vision,resell,,,56,41,5,Dynadot Inc,26/11/2018 09:09,26/11/2026 09:09
+3f348c1a-b5e6-4c64-bb5b-7d3bb2a99d75,think.vision,premium,,,82,64,5,,,
 3f361ffc-8f52-4f4c-b024-459a93e46e26,chickenroll.vision,available,9.99,,76,2,12,name.com,,
 3f508973-8f0c-4d28-847f-9814ee8ecc89,keepsomebodyposted.vision,available,9.99,,46,0,20,name.com,,
 3f561c65-6a17-4843-a37b-dacf0663c1f5,systems.vision,premium,123.75,,46,27,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5943fd93-b99a-43a3-b632-2eb053a967ce,defaults.vision,available,9.99,,44,7,8,name.com,,
 595bb01a-aa8d-44ea-ba5f-7a1c65eb413c,launched.vision,available,9.99,,65,13,8,name.com,,
 5965e132-07f3-474e-b977-484036deb1af,fasttracked.vision,available,9.99,,56,1,12,name.com,,
-598c7307-da5b-439d-a154-bf8f68c33e74,theories.vision,available,9.99,,58,6,8,name.com,,
