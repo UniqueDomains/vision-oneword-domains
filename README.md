@@ -1,10 +1,10 @@
-# Available .VISION One-Word Domains (11,512)
+# Available .VISION One-Word Domains (11,513)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C512%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C513%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vision one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,512 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,513 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,512 domains · **Median ask:** $15.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,513 domains · **Median ask:** $15.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/vision`  
 **Best for:** founders, investors, studios
 
@@ -72,13 +72,13 @@ print(df.head())
 | stirup.vision   | available | $9.99     | —             | 82             | 3      | 7      | name.com    |
 | getlife.vision  | available | $9.99     | —             | 80             | 5      | 8      | name.com    |
 | presents.vision | available | $9.99     | —             | 80             | 9      | 8      | name.com    |
-| rumcake.vision  | available | $9.99     | —             | 81             | 3      | 8      | name.com    |
+| rumcake.vision  | available | $9.99     | —             | 81             | 2      | 8      | name.com    |
 | letsgo.vision   | available | $9.99     | —             | 57             | 31     | 7      | name.com    |
 | web.vision      | resell    | —         | —             | 72             | 62     | 3      | Porkbun LLC |
-| partners.vision | premium   | $123.75   | —             | 61             | 32     | 8      | name.com    |
+| William.vision  | premium   | $92.40    | $92.40        | 74             | 31     | 7      | namecheap   |
 | maps.vision     | available | $9.99     | —             | 56             | 31     | 4      | name.com    |
 | coins.vision    | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc |
-| William.vision  | premium   | $92.40    | $92.40        | 74             | 31     | 7      | namecheap   |
+| partners.vision | premium   | $123.75   | —             | 61             | 31     | 8      | name.com    |
 | quotes.vision   | available | $9.99     | —             | 58             | 29     | 6      | name.com    |
 | tokens.vision   | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc |
 | systems.vision  | premium   | $123.75   | —             | 46             | 27     | 7      | name.com    |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,512 live domains                        |
+| 1,000-row public sample | 11,513 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
