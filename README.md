@@ -1,10 +1,10 @@
-# Available .VISION One-Word Domains (11,513)
+# Available .VISION One-Word Domains (11,514)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C513%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C514%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .vision one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,513 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,514 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,513 domains · **Median ask:** $15.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,514 domains · **Median ask:** $16.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vision`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vision`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VISION one-word domai
 
 ### Files
 
-- `vision.csv` — public CSV extract (1,000 rows)
-- `vision.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vision.csv`, public CSV extract (1,000 rows)
+- `vision.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| jewels.vision   | available | $9.99     | —             | 80             | 15     | 6      | name.com    |
-| ladies.vision   | available | $9.99     | —             | 80             | 17     | 6      | name.com    |
-| forces.vision   | available | $9.99     | —             | 82             | 12     | 6      | name.com    |
-| hangon.vision   | available | $9.99     | —             | 82             | 6      | 7      | name.com    |
-| pierogi.vision  | available | $9.99     | —             | 82             | 7      | 7      | name.com    |
-| stirup.vision   | available | $9.99     | —             | 82             | 3      | 7      | name.com    |
-| getlife.vision  | available | $9.99     | —             | 80             | 5      | 8      | name.com    |
-| presents.vision | available | $9.99     | —             | 80             | 9      | 8      | name.com    |
-| rumcake.vision  | available | $9.99     | —             | 81             | 2      | 8      | name.com    |
-| letsgo.vision   | available | $9.99     | —             | 57             | 31     | 7      | name.com    |
-| web.vision      | resell    | —         | —             | 72             | 62     | 3      | Porkbun LLC |
-| William.vision  | premium   | $92.40    | $92.40        | 74             | 31     | 7      | namecheap   |
-| maps.vision     | available | $9.99     | —             | 56             | 31     | 4      | name.com    |
-| coins.vision    | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc |
-| partners.vision | premium   | $123.75   | —             | 61             | 31     | 8      | name.com    |
-| quotes.vision   | available | $9.99     | —             | 58             | 29     | 6      | name.com    |
-| tokens.vision   | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc |
-| systems.vision  | premium   | $123.75   | —             | 46             | 27     | 7      | name.com    |
-| dogs.vision     | available | $9.99     | —             | 76             | 28     | 4      | name.com    |
-| audio.vision    | resell    | —         | —             | 76             | 35     | 5      | Porkbun LLC |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| christmas.vision | premium   | $242      | $242          | high           | low    | 9      | namesilo          |
+| come.vision      | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| yur.vision       | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| fix.vision       | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
+| bag.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| babe.vision      | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| best.vision      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| boo.vision       | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
+| bars.vision      | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| free.vision      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
+| but.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| bass.vision      | available | $9.99     | —             | medium         | low    | 4      | name.com          |
+| info.vision      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| cry.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| blob.vision      | available | $9.99     | —             | medium         | low    | 4      | name.com          |
+| mail.vision      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| fan.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| brow.vision      | available | $9.99     | —             | medium         | low    | 4      | name.com          |
+| pink.vision      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 21 |
+| feb.vision       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,513 live domains                        |
+| 1,000-row public sample | 11,514 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .vision domains only. The extension naturally suits ideas tied to eyesight, imaging, perspective, forecasting, creativity, or a broader sense of direction. That makes the strongest names in this set the ones where the word and the extension reinforce each other cleanly, such as WiFi.vision or jewels.vision. With a median ask of 15.96, price discipline matters less than choosing a name that is easy to say, easy to remember, and commercially credible. When comparing these domains, favor words with clear meaning, broad relevance, and low confusion risk over novelty alone.
+This set covers 11,514 one-word .vision domain names, from playful phrase-style picks like coffeemilk.vision and hangon.vision to conceptual names such as inspiration.vision and presents.vision. Median ask sits near $16.52, putting the bulk of this selection within easy reach for direct purchase. Updated daily, these .vision names span a wide range of tones—whimsical, emotional, and abstract—making the TLD a flexible choice for founders naming a brand and investors building a diversified one-word portfolio.
 
-- Best fit: one-word terms that pair naturally with .vision
-- Median ask is 15.96 across 11,508 listed domains
-- Favor clear spelling and strong word-extension alignment
-- Check for trademark overlap before narrowing a shortlist
+- 11,514 one-word .vision domain names in this set
+- Median ask near $16.52 across the selection
+- Whimsical to abstract tones: coffeemilk, inspiration, presents
+- Updated daily for fresh pricing and availability context
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
