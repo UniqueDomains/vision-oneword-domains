@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vision one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,320 domains · **Median ask:** $14.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/vision`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| christmas.vision | premium   | $242      | $242          | high           | low    | 9      | namesilo          |
-| come.vision      | available | $9.99     | —             | high           | low    | 4      | name.com          |
-| abo.vision       | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
-| fix.vision       | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
-| ape.vision       | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo          |
-| azo.vision       | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
-| best.vision      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
-| aug.vision       | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo          |
-| lxi.vision       | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
-| free.vision      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
-| bag.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| xci.vision       | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
-| info.vision      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
-| boo.vision       | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
-| yur.vision       | available | $9.99     | —             | high           | low    | 3      | name.com          |
-| mail.vision      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
-| but.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| aery.vision      | available | $9.99     | $50.99        | low            | low    | 4      | name.com          |
-| pink.vision      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 21 |
-| cry.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| abo.vision  | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
+| fix.vision  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
+| ape.vision  | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo          |
+| azo.vision  | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
+| best.vision | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| aug.vision  | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo          |
+| lxi.vision  | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
+| free.vision | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
+| bag.vision  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| xci.vision  | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
+| info.vision | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| boo.vision  | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
+| yur.vision  | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| mail.vision | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| but.vision  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| aery.vision | available | $9.99     | $50.99        | low            | low    | 4      | name.com          |
+| pink.vision | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 21 |
+| cry.vision  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| arid.vision | available | $9.99     | $50.99        | low            | low    | 4      | name.com          |
+| play.vision | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
