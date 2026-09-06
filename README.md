@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vision one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,360 domains · **Median ask:** $15.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/vision`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,8 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | christmas.vision | premium   | $242      | $242          | high           | low    | 9      | namesilo          |
+| come.vision      | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| tough.vision     | available | $9.99     | —             | high           | low    | 5      | name.com          |
 | abo.vision       | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
 | fix.vision       | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
 | ape.vision       | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo          |
@@ -82,8 +84,6 @@ print(df.head())
 | but.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
 | aery.vision      | available | $9.99     | $50.99        | low            | low    | 4      | name.com          |
 | pink.vision      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 21 |
-| cry.vision       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| arid.vision      | available | $9.99     | $50.99        | low            | low    | 4      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
