@@ -1,12 +1,12 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 ec6c8b6f-2f57-4a8e-adb6-ce84c635caf4,antennal.vision,available,9.99,50.99,low,low,8,name.com,,,
-f0744518-3be8-4667-a97d-1b8c76c4c326,skilful.vision,available,9.99,50.99,high,low,7,name.com,,,
+f0744518-3be8-4667-a97d-1b8c76c4c326,skilful.vision,available,45.99,45.99,medium,low,7,namesilo,,,21/09/2026 17:29
 29a60a7e-6d4b-424d-9df5-259c44d624be,iaskyou.vision,available,9.99,,medium,low,9,name.com,,,
 517cb14a-2924-424c-bed0-a6b5b54feee6,spiceup.vision,available,9.99,,high,low,8,name.com,,,
 645c22ea-6716-4c2f-858e-e8118dc10e4c,enhance.vision,premium,118.8,118.8,high,low,7,namesilo,,,
 1ea40c83-08c2-4850-92ac-dcb04d248997,showcase.vision,available,9.99,,high,low,8,name.com,,,
 5decefa4-6965-41b3-9e33-d76e804e92e3,gettothepoint.vision,available,9.99,,high,low,16,name.com,,,
-2da5b120-83be-4c58-91ab-0535ce0b680c,abovetheline.vision,available,9.99,,medium,low,14,name.com,,,
+2da5b120-83be-4c58-91ab-0535ce0b680c,abovetheline.vision,available,9.99,,low,low,14,name.com,,,
 bdbe21e5-9404-44fc-a89a-fc3d0bbe8702,backwards.vision,available,9.99,,high,low,9,name.com,,,
 d91793c8-ca41-42c2-a864-11781d3ae42e,sunlight.vision,available,9.99,,high,low,8,name.com,,,
 3e633df1-8c16-48fd-a029-55798dbf6b56,cinderella.vision,available,9.99,,high,low,10,name.com,,,
@@ -35,12 +35,12 @@ bc9503ed-0e9d-42b1-b0ae-512d587855f6,winterblues.vision,available,9.99,,low,low,
 837aa2f1-23cf-4cac-8df9-cb5d8990ba26,wasted.vision,available,9.99,,medium,low,6,name.com,,,
 e500da44-992c-475c-9488-0efe1af431c5,digitalwatch.vision,available,9.99,,high,low,13,name.com,,,
 84eeeeae-7f99-4ef5-aba7-5c7a86be604c,chase.vision,available,,,medium,low,5,,,,
-698654ed-8ce3-4265-9560-f3e2b7082844,abnormal.vision,available,9.99,50.99,high,low,8,name.com,,,
+698654ed-8ce3-4265-9560-f3e2b7082844,abnormal.vision,available,45.99,45.99,low,low,8,namesilo,,,21/09/2026 14:04
 f37c19a7-e99e-4859-892b-f9e4a85aa96e,westeuropean.vision,available,9.99,,low,low,13,name.com,,,
 9925fae7-59cc-4b4b-afa6-02ec1c15b382,pink.vision,resell,,,high,low,4,"Sav.com, LLC - 21",26/03/2026 15:15,26/03/2027 15:15,
 8b3205f6-4948-4095-8113-f616f36a1de4,incompanywith.vision,available,9.99,,medium,low,15,name.com,,,
 fc486ded-f7c4-4548-87b0-16c8c7e48342,prototypal.vision,available,9.99,50.99,low,low,10,name.com,,,06/08/2026 15:37
-9ae48d71-0b18-4c87-b98b-e11b397ce39d,dozen.vision,available,9.99,50.99,high,low,5,name.com,,,
+9ae48d71-0b18-4c87-b98b-e11b397ce39d,dozen.vision,available,45.99,45.99,medium,low,5,namesilo,,,21/09/2026 11:29
 26bfdb3a-e295-4c46-9252-4cc6653eac2b,entirety.vision,available,9.99,,high,low,8,name.com,,,
 a3697b38-5c37-4bed-9461-5573384db997,amended.vision,available,9.99,50.99,low,low,7,name.com,,,
 62ee6312-5949-4c53-9ba6-d7aa989672c3,lettertotheeditor.vision,available,9.99,,high,low,20,name.com,,,
@@ -77,7 +77,7 @@ f69d1fbe-e1f1-4e53-adbc-81402100463b,standing.vision,available,9.99,,medium,low,
 94912eb9-acd7-4e7e-b849-204b12ab5102,wipeup.vision,available,9.99,,high,low,7,name.com,,,
 113669ed-a28f-48d9-bcb5-c49cb514a952,dessert.vision,available,45.99,45.99,medium,low,7,namesilo,,,19/09/2026 09:08
 f6746221-8b56-4c6c-80e6-17fe62500a9c,herbalmedicine.vision,available,9.99,,high,low,15,name.com,,,
-d3eb6add-55a8-4319-b2cd-550609a2928d,abovenamed.vision,available,9.99,,medium,low,11,name.com,,,
+d3eb6add-55a8-4319-b2cd-550609a2928d,abovenamed.vision,available,9.99,,low,low,11,name.com,,,
 a05fa059-b09e-4afb-9026-e17124b21a4f,aramaic.vision,available,9.99,50.99,low,low,7,name.com,,,06/08/2026 12:13
 a56bdb94-12a7-4d25-a48f-5f6a4da6eb6f,unitedkingdom.vision,available,,,low,low,14,,,,
 050b7809-e2e7-48b8-9333-a1e623f20cf8,nan.vision,premium,82.5,,high,low,3,name.com,,,
@@ -97,7 +97,7 @@ e936b28f-e498-42e3-a0ac-4b6c1eccf5e2,champagne.vision,available,9.99,,high,low,9
 9ff6a15c-399e-408a-9b17-f609f8c8d5ed,rosegold.vision,available,9.99,,medium,low,9,name.com,,,
 476bd8d3-6489-4b1b-a715-af993361f7a0,chemicalweapon.vision,available,9.99,,medium,low,15,name.com,,,
 e2814d28-b6bd-4975-b5b3-87e81ce8800b,stick.vision,available,9.99,,high,low,5,name.com,,,
-7f3b55d5-de84-4acf-8e40-2ccd8a754e3e,aerobic.vision,available,9.99,50.99,high,low,7,name.com,,,
+7f3b55d5-de84-4acf-8e40-2ccd8a754e3e,aerobic.vision,available,47.98,59.98,medium,low,7,namecheap,,,21/09/2026 21:01
 796d4281-c212-42f7-b603-e8d3b1b12ff6,cleaner.vision,available,9.99,,high,low,7,name.com,,,
 2e41028d-e7b6-4543-8107-dd5e7e121fdd,intwoshakes.vision,available,9.99,,medium,low,13,name.com,,,
 a5b422cc-32f2-459d-b013-be6d828468d0,indespiteof.vision,available,9.99,,medium,low,13,name.com,,,
@@ -166,7 +166,7 @@ e0ecfb26-631c-4861-b3d8-adbd50a7c124,briefingnote.vision,available,9.99,,high,lo
 546b7b34-7741-44de-ac02-f47752a3f1f8,agonized.vision,available,9.99,50.99,low,low,8,name.com,,,
 2f1b8ae0-96df-40c6-9dc7-4bd0d0655849,erupt.vision,available,9.99,,high,low,5,name.com,,,
 929ee83b-76e2-42a5-9657-707b0eaf8eb1,float.vision,available,9.99,,high,low,5,name.com,,,
-78a74eb0-97df-4a4c-b3cf-d9c2e0612854,accept.vision,available,9.99,,high,low,6,name.com,,,
+78a74eb0-97df-4a4c-b3cf-d9c2e0612854,accept.vision,available,9.99,,medium,low,6,name.com,,,
 14347d01-6fad-475e-8ef6-3d13526571b6,childofthekitchen.vision,available,9.99,,medium,low,20,name.com,,,
 02200f75-2699-4fc5-a720-71df9854c557,backward.vision,available,9.99,,high,low,8,name.com,,,
 8579e432-267d-40a7-8ff0-17f7be67233a,addlepated.vision,available,9.99,50.99,low,low,10,name.com,,,
@@ -253,7 +253,7 @@ f830458c-5686-4818-bc5c-a11e5ee26bee,glass.vision,premium,242,242,medium,low,5,n
 736c0ba9-a5a4-4b40-b08d-aced5562ded7,eightyone.vision,available,9.99,50.99,low,low,10,name.com,,,
 c1c271b0-6ec3-4462-a6d5-867b7f0b0b5c,sidelong.vision,available,9.99,50.99,low,low,8,name.com,,,07/08/2026 03:26
 8124d5f6-59e1-4e01-bfed-880be227c479,flew.vision,available,9.99,,high,low,4,name.com,,,
-767a4bd0-bd98-4861-99f0-34de0f49c69e,fourteen.vision,available,9.99,50.99,high,low,8,name.com,,,
+767a4bd0-bd98-4861-99f0-34de0f49c69e,fourteen.vision,available,45.99,45.99,medium,low,8,namesilo,,,21/09/2026 11:38
 2f9fae5f-dc6c-4d21-81f2-79b79191f20a,inthat.vision,available,9.99,,medium,low,7,name.com,,,
 5bb20630-bd8e-4426-a272-a6d1f82f4f42,chore.vision,available,9.99,,high,low,5,name.com,,,
 4091251d-c8f6-4c75-9cbe-5e3bfe8823e2,xlvi.vision,available,9.99,50.99,low,low,4,name.com,,,
@@ -273,7 +273,7 @@ d2568988-2326-4c45-8ac5-576551218e13,possibly.vision,available,9.99,,medium,low,
 9eae8b35-f82e-4081-bc5a-7aae11a1089c,anorthic.vision,available,,,medium,low,8,,,,
 3d59d698-5b58-4256-a54a-fa425204d0a8,bacchant.vision,available,9.99,50.99,low,low,8,name.com,,,08/08/2026 04:35
 6c591185-d024-42f4-a2e1-0180d3396ec5,hooked.vision,available,9.99,,medium,low,6,name.com,,,
-4bed82f1-0d8e-4b90-9e08-da32cff5f489,adroit.vision,available,9.99,50.99,high,low,6,name.com,,,
+4bed82f1-0d8e-4b90-9e08-da32cff5f489,adroit.vision,available,47.98,59.98,low,low,6,namecheap,,,21/09/2026 19:49
 bd3b2fd4-d082-4611-8fca-7d6468783a04,starchlike.vision,available,9.99,50.99,low,low,10,name.com,,,
 d2272950-7ec4-46a9-968c-fa47825501ba,glistering.vision,available,9.99,50.99,low,low,10,name.com,,,
 37f06a0c-4590-42ac-81d5-afb7412be49c,recreant.vision,available,9.99,50.99,low,low,8,name.com,,,06/08/2026 03:55
@@ -306,7 +306,7 @@ bb950c38-4935-4d90-9721-235ee0190e6a,head.vision,available,9.99,,high,low,4,name
 89514989-b0db-42ae-8f8e-c3d2af229767,dictator.vision,available,9.99,50.99,low,low,8,name.com,,,07/08/2026 19:17
 61acbe4f-8535-4710-981a-b9ec38412a37,throwoff.vision,available,9.99,,medium,low,9,name.com,,,
 230b66ac-3b2a-49e1-8bfe-6a02f865332b,dogsofwar.vision,available,9.99,,high,low,11,name.com,,,
-88b77bc3-0f2a-4f1b-b3fc-6cb9238af902,adult.vision,premium,500,500,high,low,5,name.com,,,
+88b77bc3-0f2a-4f1b-b3fc-6cb9238af902,adult.vision,premium,520,520,medium,low,5,namecheap,,,21/09/2026 19:57
 6b5ea0a7-26c9-493d-a476-841dd43dd93b,howlatthemoon.vision,available,9.99,,high,low,16,name.com,,,
 c7d6cfd1-baff-4d15-9757-ca4e0a55033d,souse.vision,available,9.99,50.99,low,low,5,name.com,,,
 42b8c17d-e9e3-46ac-a8fd-41bd267a15d7,impression.vision,available,9.99,,high,low,10,name.com,,,
@@ -349,7 +349,7 @@ bd9cae00-aa61-4c04-927d-b82da95414f2,bedded.vision,available,9.99,50.99,low,low,
 4dea249a-05ae-4739-bed4-fab1cc68af56,amuck.vision,available,9.99,50.99,low,low,5,name.com,,,
 5307b1b8-a2b8-4b0b-b26b-3a5ef43371a3,expire.vision,available,9.99,,medium,low,6,name.com,,,
 974895fe-4426-4854-ba93-fb58de8540fd,opposable.vision,available,9.99,50.99,low,low,9,name.com,,,06/08/2026 07:43
-cb8a59f9-927b-4f4e-ba8d-8ce9b8e17598,alkaline.vision,available,9.99,50.99,high,low,8,name.com,,,
+cb8a59f9-927b-4f4e-ba8d-8ce9b8e17598,alkaline.vision,available,45.99,45.99,medium,low,8,namesilo,,,22/09/2026 00:14
 8f68de75-8542-4aec-b5ec-fe86043450e0,bigben.vision,available,9.99,,high,low,7,name.com,,,
 3b27b5d6-42cd-4f90-acc7-da9a23b7b1f1,affixal.vision,available,9.99,50.99,low,low,7,name.com,,,
 839ca106-636f-4ec2-9af0-dfac0326a855,potential.vision,premium,9.99,,high,low,9,name.com,,,
@@ -385,7 +385,6 @@ c061807a-7755-4d3b-a1c2-60851b8eccad,cameroon.vision,available,,,high,low,8,,,,
 758c7b72-13ff-46dc-bd7f-7614c6923096,xci.vision,available,9.99,50.99,low,low,3,name.com,,,
 950515ff-52aa-46a3-958c-6e79ce6cfbcd,ifallen.vision,available,9.99,,medium,low,8,name.com,,,
 404d86bb-8559-4fea-bf22-1d9f8cae7e72,dives.vision,available,9.99,,medium,low,5,name.com,,,
-791d0928-450a-4a56-bef7-4b7e8327d43b,total.vision,resell,,,high,low,5,Porkbun LLC,01/11/2025 23:25,01/11/2026 23:25,
 f5e45de0-7f8e-4410-a54a-6be1ab23a8ee,cherryontop.vision,available,9.99,,high,low,13,name.com,,,
 c292c087-b6cd-4aa8-a1ca-dd403c965acf,getwiththetimes.vision,available,9.99,,high,low,18,name.com,,,
 da863b7d-1f5b-4c51-b7c7-e7d530c09cc9,myapology.vision,available,9.99,,high,low,10,name.com,,,
@@ -426,7 +425,7 @@ b883087b-c91d-48ea-b07a-aeb0bf76b222,published.vision,available,9.99,,medium,low
 ef3e6311-9f06-45a5-8707-87fc668034f5,bravo.vision,available,,,medium,low,5,,,,
 8a5d9655-6b5f-4e36-8a8a-60d02894fe99,golfclub.vision,available,9.99,,high,low,9,name.com,,,
 87a2bf4b-fe7b-4303-95c7-8b944bc7d57a,aciduric.vision,available,9.99,50.99,low,low,8,name.com,,,
-71dc56ba-8ba2-41ce-a0d0-5424cd69d175,abovethefold.vision,available,9.99,,medium,low,14,name.com,,,
+71dc56ba-8ba2-41ce-a0d0-5424cd69d175,abovethefold.vision,available,9.99,,low,low,14,name.com,,,
 559e8904-39e9-459d-aecc-3b8901b90bf6,gothere.vision,available,9.99,,medium,low,8,name.com,,,
 0070e077-cf38-473c-b65e-60f524ec276c,envisioned.vision,available,9.99,,high,low,10,name.com,,,
 c3df44b8-7b0c-49ee-b987-fe64525b8378,astimesgo.vision,available,9.99,,medium,low,11,name.com,,,
@@ -446,12 +445,12 @@ aaf8bd3f-e10b-44ea-b176-eb66433d1262,yellownotice.vision,available,9.99,,medium,
 34e59cf6-10f2-432b-add2-8f3fab83973e,thoughtless.vision,available,9.99,,medium,low,11,name.com,,,
 3f8dbac4-d71a-49c8-9105-a70d22d268e7,restriction.vision,available,9.99,,low,low,11,name.com,,,
 af773ee3-eebf-436b-922c-7e77a9c9a22f,justfriends.vision,available,9.99,,high,low,12,name.com,,,
-76103e8c-9da5-45a7-91d2-b9dae02820de,single.vision,premium,82.5,82.5,high,low,6,name.com,,,
+76103e8c-9da5-45a7-91d2-b9dae02820de,single.vision,premium,78.54,78.54,medium,low,6,namesilo,,,21/09/2026 10:43
 95312597-42e6-4312-b8b2-ba8764598658,attentive.vision,available,9.99,,medium,low,9,name.com,,,
 7b9811cb-2d04-438d-8424-ca511a8d5588,valued.vision,available,9.99,,high,low,6,name.com,,,
 8a6989ea-7d05-4dc9-9185-62c5a8be5ed1,comeintoforce.vision,available,9.99,,high,low,15,name.com,,,
 9c051a6f-72da-438f-8539-d98879930201,spare.vision,available,9.99,,medium,low,5,name.com,,,
-630e22f6-c3ae-4808-b0d6-99d96ea1c602,acting.vision,available,9.99,50.99,high,low,6,name.com,,,
+630e22f6-c3ae-4808-b0d6-99d96ea1c602,acting.vision,available,45.99,45.99,low,low,6,namesilo,,,21/09/2026 16:22
 a0e120bc-68c2-4fad-a308-1e658eab9c8b,antithetic.vision,available,9.99,50.99,low,low,10,name.com,,,05/08/2026 19:49
 6448b9da-ac4e-4309-9199-84007b58e256,mixedup.vision,available,9.99,50.99,low,low,8,name.com,,,07/08/2026 12:12
 e4d3245c-efc4-4008-bc01-ebdd95378e8e,mydearfellow.vision,available,9.99,,low,low,14,name.com,,,
@@ -494,7 +493,7 @@ deeb9e14-3653-4a9b-bc03-0017904bcfe3,asterismal.vision,available,9.99,50.99,low,
 7d5b278b-353a-47a1-874f-ed71b5bc8917,clxxx.vision,available,9.99,50.99,low,low,5,name.com,,,
 8b1b5ae1-b79b-4f83-9d1f-f67d65811622,clayey.vision,available,9.99,50.99,low,low,6,name.com,,,06/08/2026 18:22
 724c6de8-ffe7-415d-be30-02bd7d92c175,fence.vision,available,9.99,,high,low,5,name.com,,,
-6e5e02ab-7044-40b4-bfcb-e3c34433b0d9,admirable.vision,available,9.99,50.99,high,low,9,name.com,,,
+6e5e02ab-7044-40b4-bfcb-e3c34433b0d9,admirable.vision,available,45.99,45.99,medium,low,9,namesilo,,,21/09/2026 18:46
 08e0f8fe-f4ab-4521-8e81-136ca82be025,pungent.vision,available,9.99,50.99,medium,low,7,name.com,,,
 6c6de3cf-c703-4af0-814e-06786eebce28,gun.vision,premium,78.54,78.54,medium,low,3,namesilo,,,
 c6bd957c-87e6-4185-9c51-35d47dbdd5a1,paternal.vision,available,9.99,50.99,low,low,8,name.com,,,
@@ -503,11 +502,11 @@ c6bd957c-87e6-4185-9c51-35d47dbdd5a1,paternal.vision,available,9.99,50.99,low,lo
 6eabacfa-ed7a-430a-bb45-6bf1405deefb,aoristic.vision,available,9.99,50.99,low,low,8,name.com,,,05/08/2026 21:43
 56e0b7a1-8047-492c-8f3b-8a32e7c35acf,howfar.vision,available,9.99,,medium,low,7,name.com,,,
 96b8db5c-56aa-4319-84a0-952e02dd06b7,shaking.vision,available,9.99,,medium,low,7,name.com,,,
-be99aed1-ee97-4484-8580-9c20d8309796,capable.vision,available,9.99,50.99,high,low,7,name.com,,,
+be99aed1-ee97-4484-8580-9c20d8309796,capable.vision,available,47.98,59.98,medium,low,7,namecheap,,,21/09/2026 18:33
 e1dbb6fc-0d18-42e4-8b0b-70e797a09e99,whatsoever.vision,available,9.99,,medium,low,10,name.com,,,
 bc7d183c-3073-437d-9495-d6c8a148236f,carryout.vision,available,9.99,,high,low,9,name.com,,,
 517f4fe5-89b6-4bec-b65e-2a0824db7a41,oflate.vision,available,9.99,,medium,low,7,name.com,,,
-5bfc3f49-2f68-4f52-bdd1-064f5429d67a,fillin.vision,available,9.99,,high,low,7,name.com,,,
+5bfc3f49-2f68-4f52-bdd1-064f5429d67a,fillin.vision,available,45.99,45.99,low,low,7,namesilo,,,21/09/2026 16:17
 9f34ee9e-573b-49a2-a477-8b6caccb93fc,mouth.vision,available,45.99,45.99,medium,low,5,namesilo,,,08/09/2026 03:51
 7acdb93a-99e9-405e-b4f8-9a7a3b6fe3ba,understood.vision,available,9.99,,high,low,10,name.com,,,
 0d1c6c3e-24e9-4e71-bceb-1b68567e089c,mmr.vision,premium,38.94,38.94,high,low,3,namesilo,,,
@@ -551,7 +550,7 @@ f1a56656-eec4-41f7-9f74-1b05674b410c,macro.vision,resell,,,high,low,5,"Sav.com, 
 62099ab0-d469-4765-8534-e468f119fb98,makethefirstmove.vision,available,9.99,,high,low,19,name.com,,,
 435d4e49-c0b9-4800-a578-85df5da6a308,lxxviii.vision,available,9.99,50.99,low,low,7,name.com,,,
 f7511290-4744-4a63-9232-160d32a793a2,inhale.vision,available,9.99,,high,low,6,name.com,,,
-0f235ae4-fbc7-48d2-8072-565f8f838c7e,accident.vision,premium,118.8,118.8,medium,low,8,namesilo,,,
+0f235ae4-fbc7-48d2-8072-565f8f838c7e,accident.vision,premium,118.8,118.8,low,low,8,namesilo,,,
 a063a0cd-6c27-42e1-bce9-50fc70144a2a,gingerbreadman.vision,available,9.99,,high,low,15,name.com,,,
 4019e969-a56f-4c29-abdb-cf34f9d11b61,lifeprotip.vision,available,9.99,,high,low,12,name.com,,,
 1a9f29ab-35a3-40bc-953d-6dfdc8d62c0c,fan.vision,premium,78.54,78.54,high,low,3,namesilo,,,
@@ -582,7 +581,7 @@ c82c3460-34b6-4bf3-a6b4-fae3b64051d8,textbook.vision,available,9.99,,high,low,8,
 9f479548-9412-441d-b750-3e9b03c85cae,salary.vision,available,9.99,,high,low,6,name.com,,,
 8050f91e-2057-4942-9c2a-7fe755629d13,notes.vision,available,9.99,,medium,low,5,name.com,,,
 692ce7a9-ddb0-4052-9989-a3a7db748623,pizzapie.vision,available,9.99,,high,low,9,name.com,,,
-eb8d0a78-4716-4e27-8a2c-b3f06dffa5e4,accessory.vision,available,9.99,50.99,high,low,9,name.com,,,
+eb8d0a78-4716-4e27-8a2c-b3f06dffa5e4,accessory.vision,available,45.99,45.99,medium,low,9,namesilo,,,21/09/2026 15:35
 5ad75544-19bc-4e1d-b4bb-777ff8d193c2,burning.vision,available,9.99,,high,low,7,name.com,,,
 228f6a79-ef2e-4570-a37b-f452d985baf2,orangutan.vision,available,9.99,,high,low,9,name.com,,,
 ede460cc-e4b0-4aee-9638-80710fa0ff75,redemption.vision,available,9.99,,medium,low,10,name.com,,,
@@ -636,7 +635,7 @@ fa352ad5-44e2-4fb0-861c-73aabc820dc7,bedimmed.vision,available,9.99,50.99,low,lo
 acdff0c4-8e97-4aa1-b0a5-459897b11342,immense.vision,available,9.99,,high,low,7,name.com,,,
 802331b7-3b91-448d-9d7a-84df6acc34a5,showed.vision,available,9.99,,low,low,6,name.com,,,
 c43763ce-1ab6-4e47-9106-4a44348e5dab,acuminate.vision,available,9.99,50.99,low,low,9,name.com,,,
-7a787c69-d830-45de-a9b7-d9f19b56320d,whiz.vision,available,9.99,50.99,high,low,4,name.com,,,
+7a787c69-d830-45de-a9b7-d9f19b56320d,whiz.vision,available,47.98,59.98,medium,low,4,namecheap,,,21/09/2026 18:01
 ae4f38c3-0260-4ddd-a98f-d78b96abf625,munich.vision,available,9.99,,medium,low,6,name.com,,,
 c268607b-d8ca-48be-8ee5-fbf533039105,wintersun.vision,available,9.99,,medium,low,10,name.com,,,
 d5d122cd-ff5b-43a3-8f90-b9f9c7a94c28,bald.vision,available,9.99,50.99,low,low,4,name.com,,,08/08/2026 09:16
@@ -644,7 +643,7 @@ d5d122cd-ff5b-43a3-8f90-b9f9c7a94c28,bald.vision,available,9.99,50.99,low,low,4,
 bbd0c42f-43fe-454b-bf3d-f6b80e67f617,tons.vision,available,9.99,,high,low,4,name.com,,,
 c5105a60-a760-40a7-abe4-bfe79943af11,therealityis.vision,available,9.99,,low,low,14,name.com,,,
 8c01fcf7-1549-4f83-a5d0-ba0cb9e3ab2b,oneself.vision,available,9.99,,high,low,7,name.com,,,
-f3ac75a3-03df-4b20-bb79-0f156fae93ec,abdominal.vision,available,9.99,50.99,high,low,9,name.com,,,
+f3ac75a3-03df-4b20-bb79-0f156fae93ec,abdominal.vision,available,45.99,45.99,low,low,9,namesilo,,,21/09/2026 13:47
 dcd90fa9-a497-4de1-962b-de6850ff34b2,arresting.vision,available,9.99,50.99,low,low,9,name.com,,,06/08/2026 21:47
 56d75c48-cfb7-477f-935d-5ca9cee547c1,anaglyptic.vision,available,9.99,50.99,low,low,10,name.com,,,
 3263104a-1df7-44d3-a314-9e5d05d4ef78,ambagious.vision,available,9.99,50.99,low,low,9,name.com,,,
@@ -661,8 +660,8 @@ f229d5bb-a9ed-490e-924c-a7f876e6169c,compensate.vision,available,9.99,,high,low,
 7f2d4eec-c135-4742-ac94-f24671d79df1,theme.vision,available,9.99,,high,low,5,name.com,,,
 bfb1c9df-8aa0-4549-a3e4-b26b0a77df32,undirected.vision,available,9.99,50.99,low,low,10,name.com,,,
 1ef0d57a-8301-4be6-85e4-dac2149643f6,anyone.vision,available,9.99,,medium,low,6,name.com,,,
-520e4fe2-9315-435f-8366-8190c5a51b40,attendant.vision,available,9.99,50.99,high,low,9,name.com,,,
-2d163fa9-5e26-4dc0-98ac-85eef06b5635,nineteen.vision,available,9.99,50.99,high,low,8,name.com,,,
+520e4fe2-9315-435f-8366-8190c5a51b40,attendant.vision,available,47.98,59.98,medium,low,9,namecheap,,,21/09/2026 15:40
+2d163fa9-5e26-4dc0-98ac-85eef06b5635,nineteen.vision,available,45.99,45.99,medium,low,8,namesilo,,,21/09/2026 12:05
 75d38574-4544-49cb-adb6-4a30766e0fdd,collectivenoun.vision,available,9.99,,high,low,15,name.com,,,
 c852012e-402d-4b58-9906-500108ace191,xcviii.vision,available,9.99,50.99,low,low,6,name.com,,,
 14bc0bbe-72e1-48b2-b52c-95a2c997e225,opposite.vision,available,9.99,50.99,high,low,8,name.com,,,
@@ -676,7 +675,7 @@ c10e8989-f7fc-4a1c-bbbd-33ce3cf11d1f,aversive.vision,available,9.99,50.99,low,lo
 6a63cfdd-a4e5-4c0f-af6d-592ad1fa2bd1,appropriately.vision,available,9.99,,medium,low,13,name.com,,,
 79d23efb-4f42-46a8-9272-a2184de0de9d,forecloser.vision,available,9.99,,medium,low,10,name.com,,,
 6a19daf3-7a9b-45ad-b568-db73508d1160,batholitic.vision,available,9.99,50.99,low,low,10,name.com,,,09/08/2026 01:30
-677b04ca-c787-4f18-879d-6c19339d21bd,whizz.vision,available,9.99,50.99,high,low,5,name.com,,,
+677b04ca-c787-4f18-879d-6c19339d21bd,whizz.vision,available,47.98,59.98,medium,low,5,namecheap,,,21/09/2026 18:06
 efb9a22b-bc7d-474c-b3d4-a9177f6961c7,xxxvi.vision,available,9.99,50.99,low,low,5,name.com,,,
 eccb16f1-874a-48a2-afee-516679b7d1e0,grandnephew.vision,available,9.99,,high,low,11,name.com,,,
 9c2420c0-7e6a-419c-9e86-371473b8ce61,allergist.vision,available,9.99,,medium,low,9,name.com,,,
@@ -710,7 +709,7 @@ eb5be087-af45-4a9d-8e9b-60acd045ac7c,friend.vision,resell,,,high,low,6,Dynadot I
 f7046082-f253-4fef-9f6d-a241d3f8258b,often.vision,available,9.99,,high,low,5,name.com,,,
 25ba2abd-59e2-4572-a88d-5c692f174604,groups.vision,available,9.99,,medium,low,6,name.com,,,
 4805086a-3125-40e2-9e7a-a26b64c71761,difficulty.vision,available,9.99,,medium,low,10,name.com,,,
-75095467-d5b8-4200-991e-26c79fae091b,activated.vision,available,9.99,50.99,high,low,9,name.com,,,
+75095467-d5b8-4200-991e-26c79fae091b,activated.vision,available,45.99,45.99,medium,low,9,namesilo,,,21/09/2026 16:32
 7948c824-04cf-45ae-88bf-bcf84ef130c3,formal.vision,available,9.99,50.99,high,low,6,name.com,,,
 d222d41a-697d-42d9-8c91-327544bdd140,bidens.vision,available,9.99,,medium,low,6,name.com,,,
 7e2fc556-9048-42c8-8386-72b947101d7d,artnouveau.vision,available,9.99,,medium,low,11,name.com,,,
@@ -736,7 +735,7 @@ c62bdcd6-0cb6-44da-9726-dd95a03941ba,dustyrose.vision,available,9.99,,low,low,10
 a9786c6d-1bf2-4cc3-8fb2-8c9de08238e4,puttobed.vision,available,9.99,,low,low,10,name.com,,,
 dd1da3cb-f079-4cc6-8651-6bee39faccd6,havesecondthoughts.vision,available,9.99,,medium,low,20,name.com,,,
 5a266a80-fdf6-4743-b906-d31b5112a2ea,album.vision,available,9.99,,high,low,5,name.com,,,
-854cf529-8235-4fbd-aa1a-69394054528c,addicted.vision,available,9.99,50.99,high,low,8,name.com,,,
+854cf529-8235-4fbd-aa1a-69394054528c,addicted.vision,available,45.99,45.99,medium,low,8,namesilo,,,21/09/2026 17:07
 7675213e-5110-48a4-bdac-f721b6a5a476,marooned.vision,available,9.99,,medium,low,8,name.com,,,
 632ab3b9-9c4c-4f52-a44f-29b52b68578f,lettertelegram.vision,available,9.99,,medium,low,15,name.com,,,
 7c3cea4c-aeda-4ad3-bb99-2995400c9cdf,congregation.vision,available,9.99,,high,low,12,name.com,,,
@@ -758,9 +757,9 @@ b724cb67-e9c4-4ffa-a23d-423e1d0834fa,dying.vision,available,9.99,50.99,high,low,
 412dbe6c-afed-45af-b053-ac4097a15fa2,grownup.vision,available,9.99,50.99,low,low,7,name.com,,,
 0e42f97f-db76-4903-b5e0-ee525bb29c25,terribly.vision,available,9.99,,medium,low,8,name.com,,,
 b3dab3fb-b7a8-4356-9717-bb143cf37b74,neck.vision,available,9.99,,high,low,4,name.com,,,
-9072f52c-fd27-45ce-a220-2d4b1f89b2b9,improvise.vision,available,9.99,50.99,high,low,9,name.com,,,
+9072f52c-fd27-45ce-a220-2d4b1f89b2b9,improvise.vision,available,45.99,45.99,medium,low,9,namesilo,,,21/09/2026 16:45
 68b822e0-7dc9-4e1c-934a-520f0d1cfd24,lordly.vision,available,9.99,50.99,low,low,6,name.com,,,07/08/2026 17:05
-6ae4da7a-438b-4b8f-93bc-36195d6b130d,twentysix.vision,available,9.99,50.99,high,low,10,name.com,,,
+6ae4da7a-438b-4b8f-93bc-36195d6b130d,twentysix.vision,available,45.99,45.99,medium,low,10,namesilo,,,21/09/2026 12:53
 309969aa-28fe-422a-b9cd-95f860fc59d2,bass.vision,available,9.99,,medium,low,4,name.com,,,
 695a9825-eef3-4482-89bd-8484fa68793e,siri.vision,available,,,high,low,4,,,,
 1d615225-6966-494c-beb0-cafc8a793238,pentium.vision,available,9.99,,high,low,7,name.com,,,
@@ -779,7 +778,7 @@ b9898b95-591e-4f64-b987-b290ff7c9fcc,seals.vision,available,9.99,,medium,low,5,n
 dfd4aec8-d0e6-4db1-a385-d49823eb4114,setfree.vision,available,9.99,,medium,low,8,name.com,,,
 dfc75767-482c-482a-a0f8-07a3e5eec931,havetime.vision,available,9.99,,high,low,9,name.com,,,
 7f5a1b47-e6c4-438f-9c09-e538bf82a386,come.vision,available,9.99,,high,low,4,name.com,,,
-70901354-49cc-41be-b0f3-c3ca96d07858,abovementioned.vision,available,9.99,,medium,low,15,name.com,,,
+70901354-49cc-41be-b0f3-c3ca96d07858,abovementioned.vision,available,9.99,,low,low,15,name.com,,,
 ede4cff2-c35e-456f-bc94-f793bcbbb3e1,tooright.vision,available,9.99,,low,low,9,name.com,,,
 0d5569c9-fc96-4c64-9a65-4e68818e960d,crap.vision,available,9.99,,medium,low,4,name.com,,,
 c55ebb40-d160-4240-b2a3-71e3046392b6,faded.vision,available,9.99,,medium,low,5,name.com,,,
@@ -823,6 +822,7 @@ f7e9898b-1727-4780-8983-2f8f593fb2fb,ribald.vision,available,9.99,50.99,low,low,
 c63f0514-76fe-4b0d-a5e3-16785369dced,distinguished.vision,available,9.99,,medium,low,13,name.com,,,
 98e5ba47-93fd-450c-abb0-077dd75e07e7,component.vision,available,9.99,50.99,high,low,9,name.com,,,
 e3af8a38-57f7-431e-a6b8-0431dd2ec245,rider.vision,available,9.99,,high,low,5,name.com,,,
+c1a4eb14-4d17-4870-9982-a60431f04af5,aesthetic.vision,resell,,,medium,low,9,"Global Domains International, Inc. DBA DomainCostClub.com",14/03/2026 15:15,14/03/2027 15:15,21/09/2026 21:10
 9798f948-8619-4869-b361-f6273746e18d,albinal.vision,available,9.99,50.99,low,low,7,name.com,,,
 ec8296e6-9c1b-4c27-94c1-b4add912e7d7,elvis.vision,available,9.99,,high,low,5,name.com,,,
 c2ac70b2-d47a-4cfa-81b4-a1a335cafa56,abient.vision,available,9.99,50.99,low,low,6,name.com,,,
@@ -903,7 +903,7 @@ b7bc3563-87d8-4067-b88d-3094442acee8,lifelesson.vision,available,9.99,,high,low,
 8d48bbdc-0088-4886-8c99-d01acc6d4f48,takebystorm.vision,available,9.99,,low,low,13,name.com,,,
 cfaa3091-a730-4200-8e86-671ce05feedc,gettofirstbase.vision,available,9.99,,high,low,17,name.com,,,
 3e7b70a2-d090-416f-a7c3-a4468ccbcdbd,batrachian.vision,available,9.99,50.99,low,low,10,name.com,,,05/08/2026 20:53
-89ecff3b-bd97-4d70-83d2-4ab5f6423e6a,overnight.vision,available,9.99,50.99,high,low,9,name.com,,,
+89ecff3b-bd97-4d70-83d2-4ab5f6423e6a,overnight.vision,available,47.98,59.98,medium,low,9,namecheap,,,22/09/2026 00:44
 608c5d46-4500-40d4-86c2-dc2e45363e78,orchestra.vision,available,9.99,,high,low,9,name.com,,,
 60afbce6-1801-4f34-9a00-2804ad0243d1,heartthrob.vision,available,9.99,,high,low,10,name.com,,,
 9fc372a8-c5a9-469d-abec-4883951cc3a1,artless.vision,available,9.99,50.99,low,low,7,name.com,,,06/08/2026 23:47
@@ -934,7 +934,7 @@ fedebcb4-6406-4381-8552-4ae62c5e3ff3,jewish.vision,premium,118.8,118.8,high,low,
 ac1ec624-f386-4b0c-bb21-a20d9cde12fc,banked.vision,available,9.99,,medium,low,6,name.com,,,
 5817b466-b5c7-49df-9859-e2e2be8e81d7,enable.vision,available,9.99,,high,low,6,name.com,,,
 b8d1a852-d9fb-4a1b-8181-d32753506de7,masses.vision,available,9.99,,medium,low,6,name.com,,,
-ae753122-2e2a-4308-b02e-682460424e98,marchon.vision,available,9.99,50.99,medium,low,8,name.com,,,
+ae753122-2e2a-4308-b02e-682460424e98,marchon.vision,available,47.98,59.98,low,low,8,namecheap,,,21/09/2026 20:39
 a11e7863-d483-47ba-a651-010c5623a3fa,tormented.vision,available,9.99,50.99,low,low,9,name.com,,,
 54ff8d4c-afc1-4d22-8f58-6fb1539e5b8f,rhythmic.vision,available,9.99,,medium,low,8,name.com,,,
 a6dcc3ff-9f74-4740-abb8-f072072e4ea1,anabatic.vision,available,9.99,50.99,low,low,8,name.com,,,
@@ -944,11 +944,11 @@ a6dcc3ff-9f74-4740-abb8-f072072e4ea1,anabatic.vision,available,9.99,50.99,low,lo
 aa8a9d02-ae0c-4b7b-ad97-3dd3b45d28a5,premarital.vision,available,9.99,,high,low,10,name.com,,,
 19c5d0a3-dca6-483c-b608-73ffc496f406,alchemic.vision,available,9.99,50.99,low,low,8,name.com,,,
 1f486e06-ef2b-46db-83b2-6e0efe239824,sweetandsour.vision,available,9.99,,high,low,14,name.com,,,
-9eb69fd4-7899-4553-81ac-20d339fd3aba,allegro.vision,available,9.99,50.99,high,low,7,name.com,,,
+9eb69fd4-7899-4553-81ac-20d339fd3aba,allegro.vision,available,45.99,45.99,medium,low,7,namesilo,,,22/09/2026 01:21
 b2864777-df02-40fb-9cb4-3ad55b29d8a2,atrial.vision,available,9.99,50.99,low,low,6,name.com,,,07/08/2026 14:24
 48b8e324-e02a-444c-bf97-b6ded16ea613,maybe.vision,available,9.99,,high,low,5,name.com,,,
 057fd693-0e9b-4773-a677-4d367a116f43,sexhair.vision,available,9.99,,low,low,8,name.com,,,
-b2524ba5-4bf9-4689-8646-c747173b29f5,elderly.vision,available,9.99,50.99,high,low,7,name.com,,,
+b2524ba5-4bf9-4689-8646-c747173b29f5,elderly.vision,available,45.99,45.99,medium,low,7,namesilo,,,21/09/2026 22:30
 ef62eea9-2c70-4bcc-a810-c5249f5b4382,significantly.vision,available,9.99,,medium,low,13,name.com,,,
 833f29e1-7d8f-4883-b415-465434684918,deviate.vision,available,9.99,50.99,low,low,7,name.com,,,
 dbb950e9-da57-4e3a-a39a-08f1eff5eb0e,boo.vision,premium,123.75,,high,low,3,name.com,,,
@@ -982,7 +982,7 @@ f6753ce5-01fb-4778-ad0c-b4ba39460a09,sothat.vision,available,9.99,,high,low,7,na
 853cb33d-eee6-4d58-82e3-042401024141,aug.vision,premium,78.54,78.54,low,low,3,namesilo,,,07/08/2026 17:10
 9490ffaf-dc3f-4f62-bca4-17440a05cd3c,quiteafew.vision,available,9.99,,medium,low,11,name.com,,,
 e953ce2a-feb3-4112-bbaa-89f3201900b4,worldwarii.vision,available,9.99,,low,low,12,name.com,,,
-b1b32d3f-b989-4aec-9af0-570ae9cb4886,sensation.vision,available,9.99,50.99,high,low,9,name.com,,,
+b1b32d3f-b989-4aec-9af0-570ae9cb4886,sensation.vision,available,45.99,45.99,medium,low,9,namesilo,,,21/09/2026 17:34
 ac058cc1-837b-4011-9a3b-619b55bccad6,volleyball.vision,available,9.99,,high,low,10,name.com,,,
 8c36da83-9846-4845-bd78-af6ba2692e03,yur.vision,available,9.99,,high,low,3,name.com,,,
 a0385927-fe10-415d-8714-9f4350185cf8,themself.vision,available,9.99,,low,low,8,name.com,,,
