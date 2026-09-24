@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vision one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,213 domains · **Median ask:** $28.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/vision`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | best.vision | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
 | aug.vision  | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo          |
 | lxi.vision  | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
-| free.vision | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
+| free.vision | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC      |
 | bag.vision  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
 | xci.vision  | available | $9.99     | $50.99        | low            | low    | 3      | name.com          |
 | info.vision | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
