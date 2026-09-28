@@ -1,10 +1,10 @@
-# Available .VISION One-Word Domains (22,233)
+# Available .VISION One-Word Domains (22,752)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C233%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C752%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .vision one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,233 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,752 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,233 domains · **Median ask:** $34.28 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,752 domains · **Median ask:** $34.40 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/vision`
@@ -67,23 +67,23 @@ print(df.head())
 | azt.vision   | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
 | ideal.vision | resell    | $78.54    | $78.54        | high           | low    | 5      | Sav.com, LLC                                              |
 | bbs.vision   | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                                 |
-| clx.vision   | available | $9.99     | $50.99        | medium         | low    | 3      | name.com                                                  |
-| vip.vision   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bea.vision   | available | $36.43    | $36.43        | high           | low    | 3      | spaceship                                                 |
+| neo.vision   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | but.vision   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| gia.vision   | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
-| claw.vision  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc                                               |
+| clx.vision   | available | $9.99     | $50.99        | medium         | low    | 3      | name.com                                                  |
+| sql.vision   | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | cot.vision   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| iaa.vision   | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                                                  |
-| feed.vision  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| gia.vision   | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
+| vip.vision   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | dig.vision   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| iaa.vision   | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                                                  |
+| claw.vision  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc                                               |
+| dom.vision   | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship                                                 |
 | mae.vision   | available | $35.20    | $35.20        | high           | low    | 3      | cloudflare                                                |
-| tech.vision  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| feed.vision  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
 | gel.vision   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
 | paz.vision   | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
-| aster.vision | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
-| hat.vision   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| able.vision  | available | $47.98    | $59.98        | high           | low    | 4      | namecheap                                                 |
-| build.vision | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                           |
+| tech.vision  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,233 live domains                        |
+| 1,000-row public sample | 22,752 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
