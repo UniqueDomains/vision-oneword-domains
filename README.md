@@ -1,10 +1,10 @@
-# Available .VISION One-Word Domains (22,752)
+# Available .VISION One-Word Domains (24,651)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C752%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C651%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vision one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,752 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,651 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,752 domains · **Median ask:** $34.40 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 24,651 domains · **Median ask:** $35.09 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/vision`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | bea.vision   | available | $36.43    | $36.43        | high           | low    | 3      | spaceship                                                 |
 | neo.vision   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | but.vision   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| clx.vision   | available | $9.99     | $50.99        | medium         | low    | 3      | name.com                                                  |
+| bsc.vision   | available | $5.66     | $36.56        | high           | low    | 3      | porkbun                                                   |
 | sql.vision   | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | cot.vision   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| gia.vision   | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
+| clx.vision   | available | $9.99     | $50.99        | medium         | low    | 3      | name.com                                                  |
 | vip.vision   | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | dig.vision   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
-| iaa.vision   | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                                                  |
+| gia.vision   | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
 | claw.vision  | resell    | —         | —             | high           | high   | 4      | Dynadot Inc                                               |
 | dom.vision   | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship                                                 |
-| mae.vision   | available | $35.20    | $35.20        | high           | low    | 3      | cloudflare                                                |
-| feed.vision  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| gel.vision   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
-| paz.vision   | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
+| iaa.vision   | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                                                  |
 | tech.vision  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| gel.vision   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                  |
+| lsu.vision   | available | $5.57     | $37.55        | high           | low    | 3      | dynadot                                                   |
+| aster.vision | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,752 live domains                        |
+| 1,000-row public sample | 24,651 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VISION One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
